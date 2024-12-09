@@ -387,6 +387,11 @@ function F({ children: t }) {
           }),
           e.jsx(v, {}),
           e.jsx(S, {}),
+          e.jsx("link", {
+            rel: "icon",
+            href: "./favicon/icons8-s-others-96.png",
+            type: "image/x-icon",
+          }),
         ],
       }),
       e.jsxs("body", {
