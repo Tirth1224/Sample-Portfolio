@@ -70,7 +70,7 @@ const b = () =>
               e.jsx("p", {
                 className: "text-center text-gray-400",
                 children:
-                  "Hi, I'm Jawad, I create solutions across all layers of software engineering.",
+                  "Hi, I'm Sahil, I create solutions across all layers of software engineering.",
               }),
               e.jsxs("div", {
                 className: "flex items-center gap-4 text-sm",
@@ -98,45 +98,45 @@ const b = () =>
   m = [
     {
       id: "atg",
-      companyLogo: "tech-logos/atg-logo.png",
-      companyName: "Alpha Technology Group",
+      companyLogo: "tech-logos/Fluxbyte.svg",
+      companyName: "Fluxbyte Technologies",
       role: "Full-Stack Developer",
-      duration: "Sep 2024 - Now",
+      duration: "May 2022 - Now",
       details: [
-        "Maintained a 100,000+ line .NET Core codebase, focusing on debugging critical issues and managing interactions with the SQL Server database.",
-        "Integrated new features into the .NET Core application, including advanced email and push notification capabilities using Firebase.",
-        "Created a sample project that utilizes Ffmpeg and Node.js to efficiently process and merge videos.",
+        "Efficient Development and Integration: Built reusable React components, custom hooks, and utilities to streamline development, integrated third-party APIs, and implemented secure authentication with JWT and OAuth2.",
+        "Performance and Deployment Optimization: Deployed scalable applications on AWS, optimized database performance, and established CI/CD pipelines to enhance reliability and release efficiency.",
+        "UI/UX Collaboration and Operational Support: Developed responsive user interfaces, automated tasks to boost team productivity, and monitored production issues while documenting application architecture for seamless knowledge sharing.",
       ],
       tech: [
-        { name: ".NET Core", path: "tech-logos/dotnet.svg" },
-        { name: "C#", path: "tech-logos/csharp.svg" },
-        { name: "Ffmpeg", path: "tech-logos/ffmpeg.png" },
-        { name: "Node.js", path: "tech-logos/node.svg" },
-        { name: "SQL Server", path: "tech-logos/sql-server.png" },
-        { name: "Firebase", path: "tech-logos/firebase.svg" },
-        { name: "Express.js", path: "tech-logos/express.png" },
-        { name: "Next.js", path: "tech-logos/nextjs.png" },
+        { name: "ReactJS", path: "tech-logos/React (1).png" },
+        { name: "React Native", path: "tech-logos/React (1).png" },
+        { name: "NextJs", path: "tech-logos/Next.js.png" },
+        { name: "NestJs", path: "tech-logos/Nest.js.png" },
         { name: "Typescript", path: "tech-logos/typescript.png" },
+        { name: "AWS", path: "tech-logos/AWS.png" },
+        { name: "Express.js", path: "tech-logos/express.png" },
+        { name: "Kubernetes", path: "tech-logos/Kubernetes.png" },
+        { name: "Docker", path: "tech-logos/Docker.png" },
         { name: "Git", path: "tech-logos/git.png" },
       ],
     },
     {
       id: "freelance",
-      companyLogo: "tech-logos/upwork-logo.webp",
+      companyLogo: "tech-logos/Freelancer.svg",
       companyName: "Freelance",
       role: "Software Engineer",
       duration: "Aug 2023 - Now",
       details: [
-        "Developed a full-stack Next.js website with Strapi CMS and PostgreSQL for a car rental company in Canada, enhancing their online presence and booking capabilities.",
-        "Built a React Native mobile application with Firebase for a university professor, enabling streamlined sharing of courses and educational content with students, alongside secure authentication.",
-        "Engineered a custom backend with Strapi, adding advanced authentication, custom routes, and lifecycle hooks, with Novu and SendGrid for email integration.",
+        "Full Stack Development Expertise: Delivered scalable web and mobile applications using ReactJS, Node.js, Django, and TypeScript, with a focus on intuitive user interfaces and performance optimization.",
+        "Secure Integrations and Custom Solutions: Developed and integrated APIs with robust security protocols, creating tailored systems such as HR management tools and task management platforms.",
+        "Project Diversity and Client Collaboration: Completed diverse projects, including educational platforms and business tools, by closely collaborating with clients to meet unique requirements and ensure quality delivery.",
       ],
       tech: [
-        { name: "Expo", path: "tech-logos/expo.svg" },
-        { name: "React Native", path: "tech-logos/react.svg" },
-        { name: "React.js ", path: "tech-logos/react.svg" },
-        { name: "Redux", path: "tech-logos/redux.svg" },
-        { name: "Redis", path: "tech-logos/redis.svg" },
+        { name: "FastAPI", path: "tech-logos/FastAPI.png" },
+        { name: "Nodejs", path: "tech-logos/Node.js.png" },
+        { name: "MySQl", path: "tech-logos/MySQL.png" },
+        { name: "MongoDB", path: "tech-logos/MongoDB.png" },
+        { name: "PG Admin", path: "tech-logos/postgressql.png" },
         { name: "Remix", path: "tech-logos/remix.png" },
         { name: "Strapi", path: "tech-logos/strapi.svg" },
         { name: "Docker", path: "tech-logos/docker.svg" },
@@ -146,14 +146,14 @@ const b = () =>
     },
     {
       id: "atg-intern",
-      companyLogo: "tech-logos/atg-logo.png",
-      companyName: "Alpha Technology Group (Intern)",
-      role: "Frontend Developer",
-      duration: "Jun 2024 - Aug 2024",
+      companyLogo: "tech-logos/Zydus.png",
+      companyName: "Zydus School for Excellence",
+      role: "PGT Computer Teacher",
+      duration: "Oct 2021 - April 2022",
       details: [
-        "Rebuilt a major media company’s 50+ page website with Next.js, driving a 10% increase in performance and SEO metrics.",
-        "Converted multiple Adobe XD/Figma designs into HTML, CSS, and JavaScript while collaborating closely with designers.",
-        "Contributed to the company's frontend framework by fixing bugs, particularly optimizing the search feature for better usability.",
+        "Instructed Python (Django), AI, and Machine Learning courses to over 100 students, enhancing project success rates by 40% and fostering creativity through hands-on projects, resulting in 25+ innovative solutions.",
+        "Built management systems using JavaScript and Python, improving operational efficiency by 35% and reducing manual data entry by 60%, while implementing robust security protocols to minimize vulnerabilities by 40%.",
+        "Designed databases, web forms, and file systems for educational use, improving data organization and accessibility by 50%.",
       ],
       tech: [
         { name: "HTML", path: "tech-logos/html.svg" },
@@ -463,16 +463,16 @@ const b = () =>
                 e.jsx("h2", {
                   className:
                     "text-2xl sm:text-3xl 2xl:text-4xl text-center font-bold",
-                  children: "Hi, I'm Jawad. Nice to meet you.",
+                  children: "Hi, I'm Sahil. Nice to meet you.",
                 }),
                 e.jsx("p", {
                   className:
                     "sm:w-[60%] text-center mx-auto sm:text-xl 2xl:text-2xl",
                   children:
-                    "Since the beginning of my journey as a software engineer, I’ve freelanced, collaborated with teams, and tackled projects of all sizes—from websites and mobile apps to backend systems. I’m naturally curious, always learning, and love creating things that make an impact.",
+                    "Experienced Full Stack Developer crafting robust solutions. Passionate nature photographer and dedicated teacher. Thrive in both backend and frontend development, blending tech with creativity.",
                 }),
                 e.jsxs("a", {
-                  href: "https://linkedin.com/in/mjawadzaiter",
+                  href: "https://www.linkedin.com/in/sp-1193",
                   target: "_blank",
                   className:
                     "border-2 rounded-lg flex justify-center items-center gap-2 group hover:bg-white hover:border-transparent transition-colors w-36 h-12",
@@ -723,8 +723,8 @@ const b = () =>
     );
   },
   k = () => [
-    { title: "Jawad | Portfolio" },
-    { name: "description", content: "Jawad's Portfolio" },
+    { title: "Sahil | Portfolio" },
+    { name: "description", content: "Sahil's Portfolio" },
   ];
 function S() {
   return e.jsxs(e.Fragment, {

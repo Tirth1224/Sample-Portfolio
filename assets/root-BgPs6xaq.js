@@ -199,7 +199,7 @@ function _({ getKey: t, ...r }) {
               children: [
                 e.jsx("li", {
                   children: e.jsx("a", {
-                    href: "https://linkedin.com/in/mjawadzaiter",
+                    href: "https://www.linkedin.com/in/sp-1193/",
                     target: "_blank",
                     "aria-label": "linkedin",
                     className:
@@ -209,7 +209,7 @@ function _({ getKey: t, ...r }) {
                 }),
                 e.jsx("li", {
                   children: e.jsx("a", {
-                    href: "https://github.com/Jawad762",
+                    href: "https://github.com/s-p-2193",
                     target: "_blank",
                     "aria-label": "github",
                     className:
@@ -256,7 +256,7 @@ function _({ getKey: t, ...r }) {
                 children: [
                   e.jsx("li", {
                     children: e.jsx("a", {
-                      href: "https://linkedin.com/in/mjawadzaiter",
+                      href: "https://www.linkedin.com/in/sp-1193/",
                       target: "_blank",
                       "aria-label": "linkedin",
                       className:
@@ -266,7 +266,7 @@ function _({ getKey: t, ...r }) {
                   }),
                   e.jsx("li", {
                     children: e.jsx("a", {
-                      href: "https://github.com/Jawad762",
+                      href: "https://github.com/s-p-2193",
                       target: "_blank",
                       "aria-label": "github",
                       className:
@@ -324,7 +324,7 @@ function _({ getKey: t, ...r }) {
             children: [
               e.jsx("li", {
                 children: e.jsx("a", {
-                  href: "https://linkedin.com/in/mjawadzaiter",
+                  href: "https://www.linkedin.com/in/sp-1193/",
                   target: "_blank",
                   "aria-label": "linkedin",
                   className:
@@ -334,7 +334,7 @@ function _({ getKey: t, ...r }) {
               }),
               e.jsx("li", {
                 children: e.jsx("a", {
-                  href: "https://github.com/Jawad762",
+                  href: "https://github.com/s-p-2193",
                   target: "_blank",
                   "aria-label": "github",
                   className:
