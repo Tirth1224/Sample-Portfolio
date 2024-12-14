@@ -191,8 +191,8 @@ const b = () =>
     {
       name: "Food Delivery Website",
       details:
-        "A food delivery website built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and TypeScript ensures type-safe development. With HTML, CSS, and JavaScript, it offers features like restaurant browsing, order placement, real-time tracking, and secure payments using Stripe, delivering a smooth and reliable user experience.",
-      thumbnail: "Projects/Food Delivery.png",
+        "A food delivery website built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and TypeScript ensures type-safe development. With HTML, CSS, and JavaScript, it offers features like restaurant browsing, order placement, real-time tracking, and secure payments using Razorpay, delivering a smooth and reliable user experience.",
+      thumbnail: "Projects/Food Delivery Website.png",
       platform: "Website",
       github: "https://github.com/Jawad762/cup-talk",
       tech: [
@@ -201,24 +201,26 @@ const b = () =>
         { name: "React", path: "tech-logos/React (1).png" },
         { name: "Typescript", path: "tech-logos/typescript.png" },
         { name: "Nodejs", path: "tech-logos/Node.js.png" },
-        { name: "Stripe", path: "tech-logos/stripe.png" },
+        { name: "Razorpay", path: "tech-logos/razorpay-icon.webp" },
         { name: "Javascript", path: "tech-logos/javascript.png" },
         { name: "HTML", path: "tech-logos/html.png" },
         { name: "CSS", path: "tech-logos/css.png" },
       ],
     },
     {
-      name: "Job Portal",
+      name: "Real Estate Website",
       details:
-        "A job portal website built with the MERN stack (MongoDB, Express.js, React.js, Node.js) along with HTML, CSS, and JavaScript enables job seekers to browse and apply for jobs while allowing employers to post openings and manage applications. It provides a user-friendly interface, efficient search, and application tracking for seamless recruitment.",
-      thumbnail: "Projects/Job Portal.png",
+        "A real estate website built with the MERN stack (MongoDB, Express.js, React.js, Node.js), TypeScript, and Razorpay enables users to browse, list, and manage properties seamlessly. Buyers can filter properties, while sellers can easily post listings. Razorpay integration ensures secure and hassle-free transactions, making property booking straightforward. The platform offers a user-friendly, responsive design for an efficient real estate experience.",
+      thumbnail: "Projects/Real Estate Website.png",
       platform: "Website",
       github: "https://github.com/Jawad762/commercius",
       tech: [
         { name: "MongoDB", path: "tech-logos/MongoDB.png" },
         { name: "Express", path: "tech-logos/Express.png" },
         { name: "React", path: "tech-logos/React (1).png" },
+        { name: "Typescript", path: "tech-logos/typescript.png" },
         { name: "Nodejs", path: "tech-logos/Node.js.png" },
+        { name: "Razorpay", path: "tech-logos/razorpay-icon.webp" },
         { name: "Javascript", path: "tech-logos/javascript.png" },
         { name: "HTML", path: "tech-logos/html.png" },
         { name: "CSS", path: "tech-logos/css.png" },
